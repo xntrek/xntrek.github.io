@@ -1,15 +1,36 @@
-remote_theme: pages-themes/leap-day@v0.2.0
-
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
+# --- Site identity ---
 title: "| ǝuo ɔᴉɹʇuǝɔɔǝ ǝɥ┴ |"
-
 description: ǝuO ɔᴉɹʇuǝɔɔƎ ǝɥ┴ ɯoɹɟ sƃuᴉsnɯ puɐ suoᴉʇɐʌɹǝsqo 'sʇɥƃnoɥʇ ǝɯos ʇsnſ
+lang: "en-AU"  # Use "en-US" or other locale code as needed
 
-show_downloads: false
+# --- GitHub & Theme Integration ---
+show_downloads: false      # Set to true to show .zip/.tar links
+github:
+  is_project_page: true    # Enables "Maintained by" footer
+  repository_name: "xntrek.github.io"
+  owner_name: "xntrek"
+  owner_url: "https://github.com/xntrek"
+  repository_url: "https://github.com/xntrek/xntrek.github.io"
+  # zip_url: "https://github.com/xntrek/xntrek.github.io/archive/refs/heads/main.zip"
+  # tar_url: "https://github.com/xntrek/xntrek.github.io/archive/refs/heads/main.tar.gz"
+  project_tagline: "Notes from the boundary of tech & curiosity"
+  build_revision: ""       # Leave blank, auto-set by GH Pages on deploy
 
-google_analytics:
+# --- SEO and meta ---
+domain: xntrek.github.io        # Forces HTTPS when using GitHub Pages
+url: "https://xntrek.github.io" # The base hostname and protocol for your site
+baseurl: ""                     # e.g. /blog if your site is at example.com/blog
+author: "xntrek"
+# email: "your@email.com"
+# twitter_username: "your_twitter"
 
-theme: jekyll-theme-leap-day
+# --- Build settings ---
+markdown: kramdown
+remote_theme: pages-themes/leap-day@v0.2.0
+# theme: jekyll-theme-leap-day      # Use only if not using remote_theme
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
+# --- Custom variables (optional) ---
+# custom_var: "Any value you want"
