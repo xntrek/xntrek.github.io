@@ -1,7 +1,10 @@
+---
 layout: post
 title: "AI 2025: powerful, pervasive, but uneven."
 date: 2025-08-26 21:36:48 +1000
 categories: AI OBSERVATIONS 
+---
+
 
 # The State of AI
 ---
