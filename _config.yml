@@ -93,3 +93,4 @@ plugins:
 
 # --- Custom variables (optional) ---
 # custom_var: "Any value you want"
+page_excerpts: true
