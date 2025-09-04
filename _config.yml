@@ -28,12 +28,12 @@ author: "xntrek"
 
 # --- Build settings ---
 markdown: kramdown
-theme: jekyll-theme-leap-day    # Use only if not using remote_theme
-#remote_theme: pages-themes/leap-day@v0.2.0
+# theme: jekyll-theme-leap-day    # Use only if not using remote_theme
+remote_theme: pages-themes/leap-day@v0.2.0
 
 plugins:
   - jekyll-seo-tag
-#  - jekyll-remote-theme
+  - jekyll-remote-theme
 
 
 # --- Custom variables (optional) ---
