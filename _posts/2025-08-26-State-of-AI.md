@@ -45,8 +45,6 @@ This evolution demands new frameworks for understanding AI capabilities, limitat
 
 ## The Decade of AI Expansion 
 
-<details><summary>📂</summary>
-
 The last decade has witnessed one of the most extraordinary accelerations in the ongoing and rapid history of technology.
 
 As artificial intelligence transitioned from a domain of _narrow, single-task machine learning_ systems to a broad, vibrant ecosystem of specialized and foundational models, it dwarfed every other technology advancement news.
@@ -84,11 +82,8 @@ These users move beyond superficial interaction, mastering advanced prompt engin
 The effect is a tools-driven renaissance: basic consumers use AI as just another digital convenience, while advanced users continuously push the boundaries of what’s possible by manipulating, combining, and extending the capabilities of the underlying models. 
 
 As a result, the landscape is converging: specialisation and generalisation, open and closed models, text and multimodal input, powerful APIs and local deployment all coexist, often within the same platform or workflow.
-</details>
 
 ## The Practitioner Shift: From Narrow Tasks to Universal Toolkits
-
-<details><summary>📂</summary>
 
 Over recent years, the path from simple prompt engineering to true context engineering has not been a straight line. 
 
@@ -107,11 +102,8 @@ There seems to be a collective goal of enabling AI to be seamlessly woven into c
 This ongoing convergence reflects a larger narrative. 
 
 As boundaries blur between generalist and specialist models, and as applications become increasingly agentic, multi-modal, and orchestrated, the field is experiencing a redefinition — one driven as much by new practitioner mindsets as by technical breakthroughs.
-</details>
 
 ## Capability Assessment: What AI Can and Cannot Do (Today)
-
-<details><summary>📂</summary>
 
 There are several domains where AI has achieved remarkable capabilities, however, despite remarkable progress, fundamental limitations do still persist.
 
@@ -133,11 +125,11 @@ There are several domains where AI has achieved remarkable capabilities, however
 > | - Multi-step workflow automation through agentic systems | - **Causal reasoning** difficulties in complex, multi-factor scenarios |
 > | - Tool integration and API orchestration | - **Common sense** failures in edge cases and unusual situations |
 > | - Adaptive user interfaces and personalized experiences | - **Meta-cognitive awareness** inability to reliably assess their own limitations |
-</details>
+
 
 ## The Commercial and Economic Dynamics
 
-<details><summary>📂</summary>
+
 
 Over the past few years, the commercial and economic underpinnings of artificial intelligence have crystallised around the importance of foundational infrastructure. 
 
@@ -161,11 +153,11 @@ At the same time, the rapid investment and commoditization of cloud platforms an
 This is the landscape in which a resurgent self-hosting culture and the rise of home-AI systems are now taking hold — driven by the desire for autonomy, cost predictability, privacy, and customisation, as well as a reaction to growing concentration in the AI infrastructure market. 
 
 It's in this re-bourgeoning of DIY and exploring where individuals and organisations are learning to leveraging advancements in hardware, open models, and orchestration tools to run powerful AI at the edge or even in the privacy of their own homes.
-</details>
+
 
 ## Self-Hosting faces the same Risk and Safety Considerations
 
-<details><summary>📂</summary>
+
 
 Self-hosting and edge AI deployments open new possibilities for autonomy, privacy, and cost control.
 
@@ -194,11 +186,11 @@ For those deploying AI at the edge or in the home, vigilance, layered security, 
 Ultimately, the promise of self-hosted and edge AI is matched by the gravity of the risks involved. 
 
 Mitigating these challenges demands the same (if not more) attention to security frameworks and ethical guardrails as any large-scale deployment, even as the tools and expertise available may be more limited.
-</details>
+
 
 ## Future Trajectories and Implications
 
-<details><summary>📂</summary>
+
 
 Looking forward, the future of AI suggests a rapid evolution, not only in the sophistication of the underlying technologies but also in the way they are distributed and integrated into daily life. 
 
@@ -245,7 +237,7 @@ This branch of thought focuses on designing AI systems to be inherently aligned 
 For home and edge AI, does this vision mean equipping systems with value locks? explainability? meaningful user consent? Do we make them partners in daily life, rather than subserviant workers? Are we stimulating activities which potentially fosters adversarial behaviours?
 
 The philosophical divergence boils down to two primary strategies: one is oriented around controlling advanced AI (and preparing for the possibility of misalignment or loss of oversight); the other assumes that intentional, aligned designv (with systems crafted from the outset to support and augment human flourishing) will keep technologies beneficial. 
-</details>
+
 
 ## Final thoughts.
 
