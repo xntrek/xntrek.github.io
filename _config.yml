@@ -1,7 +1,7 @@
 # --- Site identity ---
 title: "| ǝuo ɔᴉɹʇuǝɔɔǝ ǝɥ┴ |"
 description: Just some thoughts, musings and observatiions
-# sƃuᴉsnɯ puɐ suoᴉʇɐʌɹǝsqo 'sʇɥƃnoɥʇ ǝɯos ʇsnſ
+
 lang: "en-AU"  # Use "en-US" or other locale code as needed
 logo: /assets/images/logo.svg
 
@@ -13,11 +13,11 @@ github:
   owner_name: "xntrek"
   owner_url: "https://github.com/xntrek"
   repository_url: "https://github.com/xntrek/xntrek.github.io"
-  # zip_url: "https://github.com/xntrek/xntrek.github.io/archive/refs/heads/main.zip"
-  # tar_url: "https://github.com/xntrek/xntrek.github.io/archive/refs/heads/main.tar.gz"
   project_tagline: "from the boundary of tech & curiosity"
   build_revision: ""       # Leave blank, auto-set by GH Pages on deploy
-
+  # zip_url: "https://github.com/xntrek/xntrek.github.io/archive/refs/heads/main.zip"
+  # tar_url: "https://github.com/xntrek/xntrek.github.io/archive/refs/heads/main.tar.gz"
+  
 # --- SEO and meta ---
 domain: xntrek.github.io        # Forces HTTPS when using GitHub Pages
 url: "https://xntrek.github.io" # The base hostname and protocol for your site
@@ -28,11 +28,13 @@ author: "xntrek"
 
 # --- Build settings ---
 markdown: kramdown
-#remote_theme: pages-themes/leap-day@v0.2.0
 theme: jekyll-theme-leap-day    # Use only if not using remote_theme
+#remote_theme: pages-themes/leap-day@v0.2.0
+
 plugins:
-#  - jekyll-remote-theme
   - jekyll-seo-tag
+#  - jekyll-remote-theme
+
 
 # --- Custom variables (optional) ---
 # custom_var: "Any value you want"
