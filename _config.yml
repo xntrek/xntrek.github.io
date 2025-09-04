@@ -27,7 +27,7 @@ author: "xntrek"
 # --- Build settings ---
 markdown: kramdown
 #remote_theme: pages-themes/leap-day@v0.2.0
-theme: jekyll-theme-leap-day      # Use only if not using remote_theme
+theme: /_sass/jekyll-theme-leap-day.scss     # Use only if not using remote_theme
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
