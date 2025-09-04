@@ -1,7 +1,9 @@
 # --- Site identity ---
 title: "| ǝuo ɔᴉɹʇuǝɔɔǝ ǝɥ┴ |"
-description: sƃuᴉsnɯ puɐ suoᴉʇɐʌɹǝsqo 'sʇɥƃnoɥʇ ǝɯos ʇsnſ
+description: Just some thoughts, musings and observatiions
+# sƃuᴉsnɯ puɐ suoᴉʇɐʌɹǝsqo 'sʇɥƃnoɥʇ ǝɯos ʇsnſ
 lang: "en-AU"  # Use "en-US" or other locale code as needed
+logo: /assets/images/logo.svg
 
 # --- GitHub & Theme Integration ---
 show_downloads: false      # Set to true to show .zip/.tar links
@@ -13,7 +15,7 @@ github:
   repository_url: "https://github.com/xntrek/xntrek.github.io"
   # zip_url: "https://github.com/xntrek/xntrek.github.io/archive/refs/heads/main.zip"
   # tar_url: "https://github.com/xntrek/xntrek.github.io/archive/refs/heads/main.tar.gz"
-  project_tagline: "Notes from the boundary of tech & curiosity"
+  project_tagline: "from the boundary of tech & curiosity"
   build_revision: ""       # Leave blank, auto-set by GH Pages on deploy
 
 # --- SEO and meta ---
@@ -29,7 +31,7 @@ markdown: kramdown
 #remote_theme: pages-themes/leap-day@v0.2.0
 theme: jekyll-theme-leap-day    # Use only if not using remote_theme
 plugins:
-# - jekyll-remote-theme
+  - jekyll-remote-theme
   - jekyll-seo-tag
 
 # --- Custom variables (optional) ---
