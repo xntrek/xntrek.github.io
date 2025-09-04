@@ -3,7 +3,7 @@ title: "| ǝuo ɔᴉɹʇuǝɔɔǝ ǝɥ┴ |"
 description: Just some thoughts, musings and observatiions
 # sƃuᴉsnɯ puɐ suoᴉʇɐʌɹǝsqo 'sʇɥƃnoɥʇ ǝɯos ʇsnſ
 lang: "en-AU"  # Use "en-US" or other locale code as needed
-logo: /assets/images/logo.svg
+logo: "/assets/images/logo.svg"
 
 # --- GitHub & Theme Integration ---
 show_downloads: false      # Set to true to show .zip/.tar links
