@@ -3,7 +3,7 @@ title: "| ǝuo ɔᴉɹʇuǝɔɔǝ ǝɥ┴ |"
 description: Just some thoughts, musings and observatiions
 
 lang: "en-AU"  # Use "en-US" or other locale code as needed
-logo: /assets/images/logo.svg
+logo: /assets/images/logo.png
 
 # --- GitHub & Theme Integration ---
 show_downloads: false      # Set to true to show .zip/.tar links
@@ -28,7 +28,7 @@ author: "xntrek"
 
 # --- Build settings ---
 markdown: kramdown
-# theme: jekyll-theme-leap-day    # Use only if not using remote_theme
+theme: jekyll-theme-leap-day
 remote_theme: pages-themes/leap-day@v0.2.0
 
 plugins:
