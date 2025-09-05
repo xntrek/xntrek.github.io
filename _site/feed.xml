@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU"><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://xntrek.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://xntrek.github.io/" rel="alternate" type="text/html" hreflang="en-AU" /><updated>2025-09-05T19:50:46+10:00</updated><id>https://xntrek.github.io/feed.xml</id><title type="html">| ǝuo ɔᴉɹʇuǝɔɔǝ ǝɥ┴ |</title><subtitle>Just some thoughts, musings and observatiions from the boundary of tech &amp; curiosity.</subtitle><author><name>xntrek</name></author><entry><title type="html">AI 2025: powerful, pervasive, but uneven.</title><link href="https://xntrek.github.io/ai/observations/2025/08/26/State-of-AI.html" rel="alternate" type="text/html" title="AI 2025: powerful, pervasive, but uneven." /><published>2025-08-26T21:36:48+10:00</published><updated>2025-08-26T21:36:48+10:00</updated><id>https://xntrek.github.io/ai/observations/2025/08/26/State-of-AI</id><content type="html" xml:base="https://xntrek.github.io/ai/observations/2025/08/26/State-of-AI.html"><![CDATA[<h1 id="the-state-of-ai">The State of AI</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://xntrek.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://xntrek.github.io/" rel="alternate" type="text/html" hreflang="en-AU" /><updated>2025-09-06T00:26:33+10:00</updated><id>https://xntrek.github.io/feed.xml</id><title type="html">| ǝuo ɔᴉɹʇuǝɔɔǝ ǝɥ┴ |</title><subtitle>Just some thoughts, musings and observatiions from the boundary of tech &amp; curiosity.</subtitle><author><name>xntrek</name></author><entry><title type="html">AI 2025: powerful, pervasive, but uneven.</title><link href="https://xntrek.github.io/ai/observations/2025/08/26/State-of-AI.html" rel="alternate" type="text/html" title="AI 2025: powerful, pervasive, but uneven." /><published>2025-08-26T21:36:48+10:00</published><updated>2025-08-26T21:36:48+10:00</updated><id>https://xntrek.github.io/ai/observations/2025/08/26/State-of-AI</id><content type="html" xml:base="https://xntrek.github.io/ai/observations/2025/08/26/State-of-AI.html"><![CDATA[<h1 id="the-state-of-ai">The State of AI</h1>
 <hr />
 <h2 id="tldr">TL;DR</h2>
 
@@ -108,8 +108,8 @@
   <table>
     <thead>
       <tr>
-        <th style="text-align: left"><strong>Current Strengths</strong></th>
-        <th style="text-align: left"><strong>Persistent Limitations</strong></th>
+        <th style="text-align: left">**Current Strengths**</th>
+        <th style="text-align: left">**Persistent Limitations**</th>
       </tr>
     </thead>
     <tbody>
@@ -118,60 +118,60 @@
         <td style="text-align: left"> </td>
       </tr>
       <tr>
-        <td style="text-align: left"><strong><em>Content Generation and Synthesis</em></strong></td>
-        <td style="text-align: left"><strong><em>Reliability Issues</em></strong></td>
+        <td style="text-align: left">**_Content Generation and Synthesis_**</td>
+        <td style="text-align: left">**_Reliability Issues_**</td>
       </tr>
       <tr>
         <td style="text-align: left">- Writing assistance, code generation, and creative content production</td>
-        <td style="text-align: left">- <strong>Hallucinations</strong> remain a core problem, with models confidently generating incorrect information</td>
+        <td style="text-align: left">- **Hallucinations** remain a core problem, with models confidently generating incorrect information</td>
       </tr>
       <tr>
         <td style="text-align: left">- Multi-modal understanding combining text, images, and audio</td>
-        <td style="text-align: left">- <strong>Inconsistency</strong> in outputs for identical inputs due to probabilistic nature</td>
+        <td style="text-align: left">- **Inconsistency** in outputs for identical inputs due to probabilistic nature</td>
       </tr>
       <tr>
         <td style="text-align: left">- Complex reasoning through techniques like Chain-of-Thought prompting</td>
-        <td style="text-align: left">- <strong>Context confusion</strong> when dealing with large or conflicting information sources</td>
+        <td style="text-align: left">- **Context confusion** when dealing with large or conflicting information sources</td>
       </tr>
       <tr>
         <td style="text-align: left"> </td>
         <td style="text-align: left"> </td>
       </tr>
       <tr>
-        <td style="text-align: left"><strong><em>Information Processing</em></strong></td>
-        <td style="text-align: left"><strong><em>Knowledge Boundaries</em></strong></td>
+        <td style="text-align: left">**_Information Processing_**</td>
+        <td style="text-align: left">**_Knowledge Boundaries_**</td>
       </tr>
       <tr>
         <td style="text-align: left">- Document analysis and summarization at scale</td>
-        <td style="text-align: left">- <strong>Static training data</strong> limitations requiring constant RAG-based updates</td>
+        <td style="text-align: left">- **Static training data** limitations requiring constant RAG-based updates</td>
       </tr>
       <tr>
         <td style="text-align: left">- Pattern recognition in structured and unstructured data</td>
-        <td style="text-align: left">- <strong>Domain-specific knowledge gaps</strong> particularly in specialized fields</td>
+        <td style="text-align: left">- **Domain-specific knowledge gaps** particularly in specialized fields</td>
       </tr>
       <tr>
         <td style="text-align: left">- Real-time language translation and cross-modal conversion</td>
-        <td style="text-align: left">- <strong>Real-time information</strong> access dependencies on external systems</td>
+        <td style="text-align: left">- **Real-time information** access dependencies on external systems</td>
       </tr>
       <tr>
         <td style="text-align: left"> </td>
         <td style="text-align: left"> </td>
       </tr>
       <tr>
-        <td style="text-align: left"><strong><em>Automation and Orchestration</em></strong></td>
-        <td style="text-align: left"><strong><em>Reasoning Limitations</em></strong></td>
+        <td style="text-align: left">**_Automation and Orchestration_**</td>
+        <td style="text-align: left">**_Reasoning Limitations_**</td>
       </tr>
       <tr>
         <td style="text-align: left">- Multi-step workflow automation through agentic systems</td>
-        <td style="text-align: left">- <strong>Causal reasoning</strong> difficulties in complex, multi-factor scenarios</td>
+        <td style="text-align: left">- **Causal reasoning** difficulties in complex, multi-factor scenarios</td>
       </tr>
       <tr>
         <td style="text-align: left">- Tool integration and API orchestration</td>
-        <td style="text-align: left">- <strong>Common sense</strong> failures in edge cases and unusual situations</td>
+        <td style="text-align: left">- **Common sense** failures in edge cases and unusual situations</td>
       </tr>
       <tr>
         <td style="text-align: left">- Adaptive user interfaces and personalized experiences</td>
-        <td style="text-align: left">- <strong>Meta-cognitive awareness</strong> inability to reliably assess their own limitations</td>
+        <td style="text-align: left">- **Meta-cognitive awareness** inability to reliably assess their own limitations</td>
       </tr>
     </tbody>
   </table>
