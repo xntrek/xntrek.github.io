@@ -18,11 +18,12 @@
   <body>
   
       <header>
-        <h1><strong><em>{{ page.title }}</em></strong> | default:site.title }}</h1>
-        <p><i>{{ site.description }} {{ site.github.project_tagline }}</i></p>
       {% if page.title %}
-         <p>{{ site.title }}</p>
+         <h1><strong><em>{{ page.title }}</em></strong></h1>
+         {% else %}
+         <h1>{{ site.title }}</h1>
       {% endif %}
+      <p><i>{{ site.description }} {{ site.github.project_tagline }}</i></p>
       </header>
 
       <div id="banner">

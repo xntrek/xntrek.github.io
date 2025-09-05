@@ -1,3 +1,11 @@
+---
+
+layout: default
+title: Welcome!
+permalink: /index.html
+
+---
+
 <h1>Home Page</h1>
 <p>Nothing to see here yet ...</p>
 
