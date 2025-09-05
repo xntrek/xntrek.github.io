@@ -1,6 +1,14 @@
 ---
-layout: default
----
-<p>{{ page.date }} - Written by {{ page.author }}</p>
 
-{{ content }}
+layout: default
+
+---
+
+        {{ content }}
+        
+        
+        <p>{{ page.date }}
+        {% if page.author %}
+          - Written by {{ page.author }}
+        {% endif %}
+        </p>
