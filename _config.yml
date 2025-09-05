@@ -26,9 +26,9 @@ lang: "en-AU"  # Use "en-US" or other locale code as needed
 
 # --- Site identity ---
 title: "| ǝuo ɔᴉɹʇuǝɔɔǝ ǝɥ┴ |"
-description: >- # block_strip - This entire block of text will be the value of 'description', all newlines will be replaced with a single space and trailing blank lines being stripped. This means it will ignore newlines until "baseurl:"
-  # Write an awesome description for your new site here. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-  "Just some thoughts, musings and observatiions from the boundary of tech & curiosity."
+# Write an awesome description for your new site here. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+description: Just some thoughts, musings and observatiions from the boundary of tech & curiosity. 
+# >- #block_strip: This entire block of text will be the value of 'description', all newlines will be replaced with a single space and trailing blank lines being stripped. This means it will ignore newlines until "baseurl:"
 baseurl: ""                     # e.g. /blog if your site is at example.com/blog
 domain: xntrek.github.io        # Forces HTTPS when using GitHub Pages
 url: "https://xntrek.github.io" # The base hostname and protocol for your site
