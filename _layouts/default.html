@@ -18,15 +18,18 @@
   <body>
   
       <header>
-        <h1>{{ site.title }}</h1>
+        <h1><strong><em>{{ page.title }}</em></strong> | default:site.title }}</h1>
         <p><i>{{ site.description }} {{ site.github.project_tagline }}</i></p>
-        <p><strong><em>{{ page.title }}</em></strong></p>
+      {% if page.title %}
+         <p>{{ site.title }}</p>
+      {% endif %}
       </header>
 
       <div id="banner">
         <span id="logo"></span>
 
         <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
+        
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
@@ -36,34 +39,38 @@
             </ul>
           </div>
         {% endif %}
-      </div><!-- end banner -->
+        
+      </div>
+      <!-- end banner -->
 
     <div class="wrapper">
-      <nav>
-        <ul></ul>
-      </nav>
-      <section>
-        {{ content }}
-
-      </section>
-      <menu>
-      <h4><a href="/">Home</h4>
-      <h4><a href="/about/">About</h4>
-      <h4>Posts</h4>
-        <ul>
-		  {% for post in site.posts %}
-		    <li>
-		      <a href="{{ post.url }}">{{ post.title }}</a>
-		    </li>
-		  {% endfor %}
-		</ul>
-      </menu>
-      <footer>
-        {% if site.github.is_project_page %}
-          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on <a href="https://docs.github.com/en/pages">GitHub Pages</a> &mdash; Original <a href="https://github.com/pages-themes/leap-day">leap-day Theme</a> by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
-      </footer>
+	      <nav>
+	        <ul></ul>
+	      </nav>
+	      
+	      <section>
+	        {{ content }}
+	      </section>
+	      
+	      <menu>
+	      <h4><a href="/">Home</h4>
+	      <h4><a href="/about/">About</h4>
+	      <h4>Posts</h4>
+	        <ul>
+			  {% for post in site.posts %}
+			    <li>
+			      <a href="{{ post.url }}">{{ post.title }}</a>
+			    </li>
+			  {% endfor %}
+			</ul>
+	      </menu>
+      
+	      <footer>
+	        {% if site.github.is_project_page %}
+	          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+	        {% endif %}
+	        <p><small>Hosted on <a href="https://docs.github.com/en/pages">GitHub Pages</a> &mdash; Original <a href="https://github.com/pages-themes/leap-day">leap-day Theme</a> by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
+	      </footer>
     </div>
   </body>
 </html>
