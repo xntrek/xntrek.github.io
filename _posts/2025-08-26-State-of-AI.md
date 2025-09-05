@@ -9,8 +9,8 @@ categories: AI OBSERVATIONS
 
 # The State of AI
 ---
-## TL;DR
 
+> info "TL;DR"
 > ### AI 2025: powerful, pervasive, but uneven. 
 >
 > The stack is shifting from standalone models to context‑aware systems that blend retrieval, generation, and real‑time data—unlocking utility while exposing fresh reliability, safety, and governance gaps. 
@@ -41,6 +41,7 @@ The most critical insight emerging from this analysis is that we are witnessing 
 
 This evolution demands new frameworks for understanding AI capabilities, limitations, and deployment strategies. 
 
+> note ""
 > The question is can we meet this demand, or must we face a  deflation, crash or collapse before the inevitable restructure and rebuild?
 
 
@@ -248,7 +249,8 @@ However, it does seem clear to me that the trajectory is bifurcated between thos
 
 In either path, there is an increasing need and demand to operate with transparency rather than opacity.
 
-Whilst we are all pondering on how we achieve a future devoid of _HAL 9000_, _Matrix_ or _SkyNet_ scenarios, we also need to be wary of whether we are indeed inducing a world where AI _Dream of Electric Sheep_ as we march into a _Brave New World_. 
+> warnng ""
+> Whilst we are all pondering on how we achieve a future devoid of _HAL 9000_, _Matrix_ or _SkyNet_ scenarios, we also need to be wary of whether we are indeed inducing a world where AI _Dream of Electric Sheep_ as we march into a _Brave New World_. 
 
 As with all great technological upheavals, it will require continued vigilance, collaboration, and commitment to the hard work to actively consider risk-aware safeguards to prevent 'catastrophes', and utilise design-centric approaches to maximize positive impact and user empowerment. 
 

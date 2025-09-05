@@ -1,27 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://xntrek.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://xntrek.github.io/" rel="alternate" type="text/html" hreflang="en-AU" /><updated>2025-09-06T01:18:50+10:00</updated><id>https://xntrek.github.io/feed.xml</id><title type="html">| ǝuo ɔᴉɹʇuǝɔɔǝ ǝɥ┴ |</title><subtitle>Just some thoughts, musings and observatiions from the boundary of tech &amp; curiosity.</subtitle><author><name>xntrek</name></author><entry><title type="html">AI 2025: powerful, pervasive, but uneven.</title><link href="https://xntrek.github.io/ai/observations/2025/08/26/State-of-AI.html" rel="alternate" type="text/html" title="AI 2025: powerful, pervasive, but uneven." /><published>2025-08-26T21:36:48+10:00</published><updated>2025-08-26T21:36:48+10:00</updated><id>https://xntrek.github.io/ai/observations/2025/08/26/State-of-AI</id><content type="html" xml:base="https://xntrek.github.io/ai/observations/2025/08/26/State-of-AI.html"><![CDATA[<h1 id="the-state-of-ai">The State of AI</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://xntrek.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://xntrek.github.io/" rel="alternate" type="text/html" hreflang="en-AU" /><updated>2025-09-06T09:52:25+10:00</updated><id>https://xntrek.github.io/feed.xml</id><title type="html">| ǝuo ɔᴉɹʇuǝɔɔǝ ǝɥ┴ |</title><subtitle>Just some thoughts, musings and observatiions from the boundary of tech &amp; curiosity.</subtitle><author><name>xntrek</name></author><entry><title type="html">AI 2025: powerful, pervasive, but uneven.</title><link href="https://xntrek.github.io/ai/observations/2025/08/26/State-of-AI.html" rel="alternate" type="text/html" title="AI 2025: powerful, pervasive, but uneven." /><published>2025-08-26T21:36:48+10:00</published><updated>2025-08-26T21:36:48+10:00</updated><id>https://xntrek.github.io/ai/observations/2025/08/26/State-of-AI</id><content type="html" xml:base="https://xntrek.github.io/ai/observations/2025/08/26/State-of-AI.html"><![CDATA[<h1 id="the-state-of-ai">The State of AI</h1>
 <hr />
-<h2 id="tldr">TL;DR</h2>
 
-<blockquote>
-  <h3 id="ai-2025-powerful-pervasive-but-uneven">AI 2025: powerful, pervasive, but uneven.</h3>
+<div class="premonition info">
+  <i class="premonition pn-info"></i>
+  <div class="content">
+    <p class="header">TL;DR</p><h3 id="ai-2025-powerful-pervasive-but-uneven">AI 2025: powerful, pervasive, but uneven.</h3>
 
-  <p>The stack is shifting from standalone models to context‑aware systems that blend retrieval, generation, and real‑time data—unlocking utility while exposing fresh reliability, safety, and governance gaps.</p>
+<p>The stack is shifting from standalone models to context‑aware systems that blend retrieval, generation, and real‑time data—unlocking utility while exposing fresh reliability, safety, and governance gaps.</p>
 
-  <p>The next frontier is not <em>bigger models</em>, but <em>better systems</em>: orchestrated, multimodal, and increasingly local at the edge.</p>
+<p>The next frontier is not <em>bigger models</em>, but <em>better systems</em>: orchestrated, multimodal, and increasingly local at the edge.</p>
 
-  <p><em>Key takeaways</em>:</p>
-  <ul>
-    <li><strong>Architecture shift</strong>: From static models to dynamic, RAG‑grounded, tool‑using agents embedded in workflows, redefining “AI capability” as system design, not just parameters.</li>
-    <li><strong>Democratization vs. concentration</strong>: Access has broadened (APIs, open weights, local runtimes), yet power concentrates in compute, data, and pretraining—creating strategic dependencies.</li>
-    <li><strong>Strengths and limits</strong>: Generative quality, multimodal fluency, and automation are real; hallucinations, inconsistency, domain gaps, and brittle reasoning persist — evaluation and oversight are now core competencies.</li>
-    <li><strong>Economics bite</strong>: Prototyping is cheap; production is costly — compute, RAG pipelines, human oversight, and maintenance drive TCO; many pilots underdeliver without disciplined ROI governance.</li>
-    <li><strong>Edge/home AI rise</strong>: Privacy, latency, and control pull workloads local; but self‑hosting inherits (and can amplify) risks — security hardening, bias mitigation, and threat modeling are mandatory.</li>
-    <li><strong>Workforce shift</strong>: Value moves to AI collaboration, orchestration, assurance, and governance; organizations need AI literacy, transparent processes, and robust evaluation to scale impact.</li>
-    <li><strong>Ethics &amp; futures</strong>: Two philosophies shape roadmaps — “control after creation” vs. “alignment by design.” Both matter as autonomy grows; trust will hinge on transparency, safeguards, and human‑centered design.</li>
-  </ul>
+<p><em>Key takeaways</em>:</p>
+<ul>
+  <li><strong>Architecture shift</strong>: From static models to dynamic, RAG‑grounded, tool‑using agents embedded in workflows, redefining “AI capability” as system design, not just parameters.</li>
+  <li><strong>Democratization vs. concentration</strong>: Access has broadened (APIs, open weights, local runtimes), yet power concentrates in compute, data, and pretraining—creating strategic dependencies.</li>
+  <li><strong>Strengths and limits</strong>: Generative quality, multimodal fluency, and automation are real; hallucinations, inconsistency, domain gaps, and brittle reasoning persist — evaluation and oversight are now core competencies.</li>
+  <li><strong>Economics bite</strong>: Prototyping is cheap; production is costly — compute, RAG pipelines, human oversight, and maintenance drive TCO; many pilots underdeliver without disciplined ROI governance.</li>
+  <li><strong>Edge/home AI rise</strong>: Privacy, latency, and control pull workloads local; but self‑hosting inherits (and can amplify) risks — security hardening, bias mitigation, and threat modeling are mandatory.</li>
+  <li><strong>Workforce shift</strong>: Value moves to AI collaboration, orchestration, assurance, and governance; organizations need AI literacy, transparent processes, and robust evaluation to scale impact.</li>
+  <li><strong>Ethics &amp; futures</strong>: Two philosophies shape roadmaps — “control after creation” vs. “alignment by design.” Both matter as autonomy grows; trust will hinge on transparency, safeguards, and human‑centered design.</li>
+</ul>
 
-  <p><strong>Bottom line</strong>: The winners won’t just ship smarter models—they’ll engineer trustworthy systems, align incentives with outcomes, and balance cloud scale with edge sovereignty to earn durable ROI and societal trust.</p>
-</blockquote>
+<p><strong>Bottom line</strong>: The winners won’t just ship smarter models—they’ll engineer trustworthy systems, align incentives with outcomes, and balance cloud scale with edge sovereignty to earn durable ROI and societal trust.</p>
+
+
+
+
+  </div>
+</div>
 
 <hr />
 
@@ -35,9 +41,16 @@
 
 <p>This evolution demands new frameworks for understanding AI capabilities, limitations, and deployment strategies.</p>
 
-<blockquote>
-  <p>The question is can we meet this demand, or must we face a  deflation, crash or collapse before the inevitable restructure and rebuild?</p>
-</blockquote>
+<div class="premonition note">
+  <i class="premonition pn-note"></i>
+  <div class="content">
+    <p>The question is can we meet this demand, or must we face a  deflation, crash or collapse before the inevitable restructure and rebuild?</p>
+
+
+
+
+  </div>
+</div>
 
 <h2 id="the-decade-of-ai-expansion">The Decade of AI Expansion</h2>
 
@@ -287,10 +300,17 @@
 
 <p>In either path, there is an increasing need and demand to operate with transparency rather than opacity.</p>
 
-<p>Whilst we are all pondering on how we achieve a future devoid of <em>HAL 9000</em>, <em>Matrix</em> or <em>SkyNet</em> scenarios, we also need to be wary of whether we are indeed inducing a world where AI <em>Dream of Electric Sheep</em> as we march into a <em>Brave New World</em>.</p>
+<div class="premonition error">
+  <div class="fa pn-error"></div>
+  <div class="content">
+    <p class="header">PREMONITION ERROR: Invalid box type</p>
+    You have specified an invalid box type "warnng". You can customize your own box types in `_config.yml`.
+    See documentation for more help.
+  </div>
+</div>
 
 <p>As with all great technological upheavals, it will require continued vigilance, collaboration, and commitment to the hard work to actively consider risk-aware safeguards to prevent ‘catastrophes’, and utilise design-centric approaches to maximize positive impact and user empowerment.</p>
 
 <p>All so we can say we are building systems that are worthy of the trust we place in them.</p>
 
-<!-- Taiss Quartapa, 26 August, 2025 -->]]></content><author><name>xntrek</name></author><category term="AI" /><category term="OBSERVATIONS" /><summary type="html"><![CDATA[The State of AI TL;DR]]></summary></entry></feed>
+<!-- Taiss Quartapa, 26 August, 2025 -->]]></content><author><name>xntrek</name></author><category term="AI" /><category term="OBSERVATIONS" /><summary type="html"><![CDATA[The State of AI]]></summary></entry></feed>
