@@ -70,8 +70,6 @@ GEM
       rackup (~> 2.0)
       sinatra (~> 4.0)
       sinatra-contrib (~> 4.0)
-    jekyll-feed (0.17.0)
-      jekyll (>= 3.7, < 5.0)
     jekyll-menus (0.6.1)
       jekyll (>= 3.6, < 5.0)
     jekyll-remote-theme (0.4.3)
@@ -93,9 +91,6 @@ GEM
     jekyll-theme-leap-day (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
-    jekyll-toc (0.19.0)
-      jekyll (>= 3.9)
-      nokogiri (~> 1.12)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.13.2)
@@ -205,14 +200,11 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll
   jekyll-admin
-  jekyll-feed (~> 0.12)
   jekyll-menus
   jekyll-remote-theme
-  jekyll-seo-tag
   jekyll-sitemap
   jekyll-spaceship
   jekyll-theme-leap-day (~> 0.2.0)
-  jekyll-toc
   premonition
 
 BUNDLED WITH

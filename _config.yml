@@ -50,23 +50,25 @@ github:
   project_tagline: "ooh, what's this button d"
   build_revision: ""       # Leave blank, auto-set by GH Pages on deploy
   show_downloads: false      # Set to true to show .zip/.tar links
-  # zip_url: "https://github.com/xntrek/xntrek.github.io/archive/refs/heads/main.zip"
-  # tar_url: "https://github.com/xntrek/xntrek.github.io/archive/refs/heads/main.tar.gz"
+# zip_url: "https://github.com/xntrek/xntrek.github.io/archive/refs/heads/main.zip"
+# tar_url: "https://github.com/xntrek/xntrek.github.io/archive/refs/heads/main.tar.gz"
   
 # --- Custom variables (optional) ---
-  # custom_var: "Any value you want"
+# custom_var: "Any value you want"
   page_excerpts: true
 
 plugins:
   - jekyll-sitemap
   - jekyll-menus
   - jekyll-spaceship
-  - jekyll-toc
   - premonition
   - jekyll-admin
   - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
+
+  
+#  - jekyll-feed
+#  - jekyll-toc
+#  - jekyll-seo-tag
 #  - htmlbeautifier
 #  - jekyll-tidy
 
