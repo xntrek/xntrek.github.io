@@ -1,9 +1,12 @@
 ---
+
 layout: post
-title: "AI 2025: powerful, pervasive, but uneven."
+title: "AI 2025: Powerful. Pervasive. Uneven."
 date: 2025-08-26 21:36:48 +1000
 author: xntrek
 categories: AI 
+excerpt_separator: <!--more-->
+
 ---
 
 
@@ -29,6 +32,8 @@ categories: AI
 > __Bottom line__: The winners won’t just ship smarter models—they’ll engineer trustworthy systems, align incentives with outcomes, and balance cloud scale with edge sovereignty to earn durable ROI and societal trust.
 
 ---
+<!--more-->
+
 
 ## Opening Thoughts
 
