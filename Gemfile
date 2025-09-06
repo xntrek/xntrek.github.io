@@ -9,7 +9,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
 #  gem "jekyll-menus"
 #  gem "jekyll-spaceship"
-  gem "premonition"
+  gem "jekyll-gfm-admonitions"
 #  gem "jekyll-admin"
   gem "jekyll-remote-theme"
 #  gem "jekyll-feed", "~> 0.12"

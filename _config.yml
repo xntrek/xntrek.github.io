@@ -60,7 +60,7 @@ plugins:
   - jekyll-sitemap
 #  - jekyll-menus
 #  - jekyll-spaceship
-  - premonition
+  - jekyll-gfm-admonitions
 #  - jekyll-admin
   - jekyll-remote-theme
 
