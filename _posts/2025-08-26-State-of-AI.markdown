@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 # The State of AI
 ---
 
-> info "TL;DR"
+> [!NOTE] TL;DR
 > ### AI 2025: powerful, pervasive, but uneven. 
 >
 > The stack is shifting from standalone models to context‑aware systems that blend retrieval, generation, and real‑time data—unlocking utility while exposing fresh reliability, safety, and governance gaps. 
@@ -47,7 +47,7 @@ The most critical insight emerging from this analysis is that we are witnessing 
 
 This evolution demands new frameworks for understanding AI capabilities, limitations, and deployment strategies. 
 
-> note ""
+> [!NOTE]
 > The question is can we meet this demand, or must we face a  deflation, crash or collapse before the inevitable restructure and rebuild?
 
 
