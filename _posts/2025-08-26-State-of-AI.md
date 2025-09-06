@@ -3,7 +3,7 @@ layout: post
 title: "AI 2025: powerful, pervasive, but uneven."
 date: 2025-08-26 21:36:48 +1000
 author: xntrek
-categories: AI OBSERVATIONS 
+categories: AI 
 ---
 
 
@@ -249,7 +249,7 @@ However, it does seem clear to me that the trajectory is bifurcated between thos
 
 In either path, there is an increasing need and demand to operate with transparency rather than opacity.
 
-> warnng ""
+> warning ""
 > Whilst we are all pondering on how we achieve a future devoid of _HAL 9000_, _Matrix_ or _SkyNet_ scenarios, we also need to be wary of whether we are indeed inducing a world where AI _Dream of Electric Sheep_ as we march into a _Brave New World_. 
 
 As with all great technological upheavals, it will require continued vigilance, collaboration, and commitment to the hard work to actively consider risk-aware safeguards to prevent 'catastrophes', and utilise design-centric approaches to maximize positive impact and user empowerment. 

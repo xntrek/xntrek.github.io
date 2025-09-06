@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://xntrek.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://xntrek.github.io/" rel="alternate" type="text/html" hreflang="en-AU" /><updated>2025-09-06T09:52:25+10:00</updated><id>https://xntrek.github.io/feed.xml</id><title type="html">| ǝuo ɔᴉɹʇuǝɔɔǝ ǝɥ┴ |</title><subtitle>Just some thoughts, musings and observatiions from the boundary of tech &amp; curiosity.</subtitle><author><name>xntrek</name></author><entry><title type="html">AI 2025: powerful, pervasive, but uneven.</title><link href="https://xntrek.github.io/ai/observations/2025/08/26/State-of-AI.html" rel="alternate" type="text/html" title="AI 2025: powerful, pervasive, but uneven." /><published>2025-08-26T21:36:48+10:00</published><updated>2025-08-26T21:36:48+10:00</updated><id>https://xntrek.github.io/ai/observations/2025/08/26/State-of-AI</id><content type="html" xml:base="https://xntrek.github.io/ai/observations/2025/08/26/State-of-AI.html"><![CDATA[<h1 id="the-state-of-ai">The State of AI</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-AU"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://xntrek.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://xntrek.github.io/" rel="alternate" type="text/html" hreflang="en-AU" /><updated>2025-09-06T10:30:46+10:00</updated><id>https://xntrek.github.io/feed.xml</id><title type="html">| ǝuo ɔᴉɹʇuǝɔɔǝ ǝɥ┴ |</title><subtitle>Just some thoughts, musings and observatiions from the boundary of tech &amp; curiosity.</subtitle><author><name>xntrek</name></author><entry><title type="html">AI 2025: powerful, pervasive, but uneven.</title><link href="https://xntrek.github.io/ai/2025/08/26/State-of-AI.html" rel="alternate" type="text/html" title="AI 2025: powerful, pervasive, but uneven." /><published>2025-08-26T21:36:48+10:00</published><updated>2025-08-26T21:36:48+10:00</updated><id>https://xntrek.github.io/ai/2025/08/26/State-of-AI</id><content type="html" xml:base="https://xntrek.github.io/ai/2025/08/26/State-of-AI.html"><![CDATA[<h1 id="the-state-of-ai">The State of AI</h1>
 <hr />
 
 <div class="premonition info">
@@ -300,12 +300,14 @@
 
 <p>In either path, there is an increasing need and demand to operate with transparency rather than opacity.</p>
 
-<div class="premonition error">
-  <div class="fa pn-error"></div>
+<div class="premonition warning">
+  <i class="premonition pn-warn"></i>
   <div class="content">
-    <p class="header">PREMONITION ERROR: Invalid box type</p>
-    You have specified an invalid box type "warnng". You can customize your own box types in `_config.yml`.
-    See documentation for more help.
+    <p>Whilst we are all pondering on how we achieve a future devoid of <em>HAL 9000</em>, <em>Matrix</em> or <em>SkyNet</em> scenarios, we also need to be wary of whether we are indeed inducing a world where AI <em>Dream of Electric Sheep</em> as we march into a <em>Brave New World</em>.</p>
+
+
+
+
   </div>
 </div>
 
@@ -313,4 +315,4 @@
 
 <p>All so we can say we are building systems that are worthy of the trust we place in them.</p>
 
-<!-- Taiss Quartapa, 26 August, 2025 -->]]></content><author><name>xntrek</name></author><category term="AI" /><category term="OBSERVATIONS" /><summary type="html"><![CDATA[The State of AI]]></summary></entry></feed>
+<!-- Taiss Quartapa, 26 August, 2025 -->]]></content><author><name>xntrek</name></author><category term="AI" /><summary type="html"><![CDATA[The State of AI]]></summary></entry></feed>
