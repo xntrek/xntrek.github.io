@@ -92,3 +92,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+premonition:
+  types:
+    custom:
+      meta:
+        fa-icon: fa-business-time
